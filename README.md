@@ -131,7 +131,8 @@ The main screen — a scrollable Fruit Catalog with a green header and a footer 
 | **Expected Output** | List of fruits is displayed correctly with the student name and USN visible in the footer. |
 | **Result** | ✅ Pass |
 
-<img width="732" height="1600" alt="711" src="https://github.com/user-attachments/assets/2b86bca5-2e94-4edc-9476-af43f2578e26" />
+
+<img width="453" height="903" alt="image 3" src="https://github.com/user-attachments/assets/60b05aed-a9d3-4351-9546-6f315c72166c" />
 
 
 
@@ -155,7 +156,8 @@ The main screen — a scrollable Fruit Catalog with a green header and a footer 
 | **Expected Output** | The dialog closes and the full fruit list is shown again. |
 | **Result** | ✅ Pass |
 
-<img width="732" height="1600" alt="722" src="https://github.com/user-attachments/assets/fbedba95-d396-49a2-8ab4-bb98fa4efa43" />
+<img width="467" height="871" alt="IMAGE 4" src="https://github.com/user-attachments/assets/e007ab73-b52c-4f0d-ad5d-3912fe6a87ae" />
+
 
 
 ---
